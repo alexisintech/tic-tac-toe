@@ -1,11 +1,12 @@
-# 2 player tic-tac-toe
+# [2 player tic-tac-toe](https://alexisintech.github.io/tic-tac-toe/)
 
 A 2–player tic-tac-toe game with win and draw validation
 
 **Link to group project:** https://2-player-tic-tac-toe.netlify.app/  
-**Link to project updated for alexisintech personal use:** https://alexisintech.github.io/tic-tac-toe/
 
-![an animation of a game of tic tac toe](tictactoegif.gif)
+<a href="https://alexisintech.github.io/tic-tac-toe/">
+  <img src="tictactoegif.gif" />
+</a>
 
 ## How It's Made:
 

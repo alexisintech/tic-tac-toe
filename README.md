@@ -1,17 +1,18 @@
-# 2 player tic-tac-toe
+# [2 player tic-tac-toe](https://alexisintech.github.io/tic-tac-toe/)
 
 A 2–player tic-tac-toe game with win and draw validation
 
 **Link to group project:** https://2-player-tic-tac-toe.netlify.app/  
-**Link to project updated for alexisintech personal use:** https://alexisintech.github.io/tic-tac-toe/
 
-![an animation of a game of tic tac toe](tictactoe.gif)
+<a href="https://alexisintech.github.io/tic-tac-toe/">
+  <img src="tictactoegif.gif" />
+</a>
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, and JavaScript
 
-[@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX) and I collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
+[@asper_jacob](https://github.com/20jasper), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX) and I collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
 
 ## Lessons Learned:
 

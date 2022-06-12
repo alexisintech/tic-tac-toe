@@ -5,7 +5,7 @@ A 2–player tic-tac-toe game with win and draw validation
 **Link to group project:** https://2-player-tic-tac-toe.netlify.app/  
 
 <a href="https://alexisintech.github.io/tic-tac-toe/">
-  <img src="tictactoegif.gif" />
+  <img src="tictactoegif.gif" width="100%" />
 </a>
 
 ## How It's Made:
